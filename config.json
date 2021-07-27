@@ -3,10 +3,10 @@
   "username": "Pandademic",
   "name": null,
   "userimg": "https://avatars.githubusercontent.com/u/74566464?v=4",
-  "sort": "created",
+  "sort": "updated",
   "order": "asc",
-  "includeFork": false,
-  "theme": "dark.css",
+  "includeFork": true,
+  "theme": "light.css",
   "types": [
    "owner"
   ],
