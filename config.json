@@ -4,7 +4,7 @@
   "name": null,
   "userimg": "https://avatars.githubusercontent.com/u/74566464?v=4",
   "sort": "updated",
-  "order": "asc",
+  "order": "desc",
   "includeFork": true,
   "theme": "light.css",
   "types": [
